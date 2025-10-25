@@ -173,6 +173,8 @@ TOTAL                        147      0   100%
 ```
 start htmlcov/index.html
 ```
+\бла бла бла
+
 
 6. Документация и ссылки:
 + [SKYPRO 1](https://my.sky.pro/student-cabinet/stream-lesson/182802/homework-requirements)
