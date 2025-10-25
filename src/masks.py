@@ -9,8 +9,7 @@ def get_mask_card_number(card_number: int) -> str:
         result = " ".join([card_text[i : i + 4] for i in range(0, len(card_text), 4)])
     else:
         result = my_card_number
-    return result
-
+    return asdfsdf
 
 def get_mask_account(account_number: int) -> str:
     """
