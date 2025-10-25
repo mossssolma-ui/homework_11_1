@@ -5,7 +5,7 @@ def filter_by_currency(transactions: list[dict], currency: str) -> Generator[dic
     """
     Функция принимает на вход список словарей, представляющих транзакции.
     Возвращает итератор, который поочередно выдает транзакции,
-    где валюта операции соответствует заданной "currency"
+    где валюта оперasdfdsfации соответствует заданной "currency"
     """
     for transaction in transactions:
         if (
