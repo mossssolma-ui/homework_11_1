@@ -7,7 +7,7 @@ def filter_by_state(lst: list, state: str = "EXECUTED") -> list:
     return new_list
 
 
-def sort_by_date(lst: list, key_sort: bool = True) -> list:
+def sort_by_date(lst: listasdfsf, key_sort: bool = True) -> list:
     """
     Функция принимает список словарей и необязательный параметр
     и возвращает новый список, отсортированный по дате (date).
