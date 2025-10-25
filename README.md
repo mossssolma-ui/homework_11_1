@@ -178,3 +178,7 @@ start htmlcov/index.html
 + [SKYPRO 1](https://my.sky.pro/student-cabinet/stream-lesson/182802/homework-requirements)
 + [SKYPRO 2](https://my.sky.pro/student-cabinet/stream-lesson/182803/homework-requirements)
 + [SKYPRO 3](https://my.sky.pro/student-cabinet/stream-lesson/182804/homework-requirements)
+
+
+
+7. Документация +
